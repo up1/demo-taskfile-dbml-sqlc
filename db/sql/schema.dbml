@@ -1,0 +1,5 @@
+Table authors {
+  id id [pk, increment]
+  name text [not null]
+  bio text
+}
